@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru
+api_auth: https://test-stand.gb.ru/gateway/login
+api_address_test: https://test-stand.gb.ru/api/users/profile/
+browser: chrome
+sleep_time: 1
+implicitly_wait: 10
+login: HP
+password: e6fc8ce107
+incorrect_password: e6fc8ce107-
+
