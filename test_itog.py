@@ -47,7 +47,7 @@ def test_step_4(browser):
     """Тест проверки размера шрифта в заголовке страницы About."""
     logging.info('Test 4 staring')
     test_page = OperationsHelper(browser)
-    assert test_page.get_title_about_font_size() == '32px', 'test_step43 FAILED'
+    assert test_page.get_title_about_font_size() == '32px', 'test_step4 FAILED'
 
 
 # Дополнительное задание 1:
